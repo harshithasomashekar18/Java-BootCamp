@@ -42,11 +42,7 @@ public class SimpleInterest {
         System.out.println("Total Amount is :" + totalAmount);
         
         sc.close();
-
-
-
         
     }
-
-    
+ 
 }
