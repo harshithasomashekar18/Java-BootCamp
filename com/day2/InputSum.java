@@ -10,6 +10,8 @@ public class InputSum {
         int num2 = sc.nextInt();
         int sum = num1 + num2;
         System.out.println("Sum of two numbers are:" + sum);
+        int product = num1 * num2;
+        System.out.println("Product of two numbers is :" + product);
         
         sc.close();
         
