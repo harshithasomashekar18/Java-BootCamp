@@ -20,6 +20,7 @@ public class CurrencyConverter {
         System.out.printf("Your amount in USD is :  $%.2f%n" , usd );
 
         scanner.close();
+
     }
     
 }
