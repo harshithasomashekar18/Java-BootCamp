@@ -10,6 +10,7 @@ public class ReversePrintNum {
             System.out.print(i + " ");
             
         }
+        in.close();
     }
     
 }

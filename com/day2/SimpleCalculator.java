@@ -11,7 +11,7 @@ public class SimpleCalculator {
         while(true) {
 
             //take operater inut
-            System.err.println();
+            System.out.println();
             System.out.print("Enter a operator:");
             char op = sc.next().trim().charAt(0);
 
@@ -45,6 +45,7 @@ public class SimpleCalculator {
             else{
                     System.out.println("Invalid input operator");
              } 
+             sc.close();
             
         }
         System.out.println(ans);
@@ -88,3 +89,6 @@ public class SimpleCalculator {
       
 //     }
 
+/*
+Aproach1 we no need to rerun the program again and again whereas aproach2 we need to run again and again. 
+but aproach1 is user friendly and interactive */
