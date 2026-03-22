@@ -22,6 +22,7 @@ public class PrimeNumber {
                 System.out.println("It is a prime number");
             }
         }
+        sc.close();
 
     }
 }
