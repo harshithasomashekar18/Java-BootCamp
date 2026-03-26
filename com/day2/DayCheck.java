@@ -17,7 +17,7 @@ public class DayCheck {
             case 7:
                 System.out.println("Weekend");
         }
-        
+      in.close();  
     }
     
 }

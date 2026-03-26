@@ -9,6 +9,8 @@ public class AreaOfRectangle {
         int b = sc.nextInt();
         int area = l*b;
         System.out.println(area);
+
+        sc.close();
     }
     
 }
