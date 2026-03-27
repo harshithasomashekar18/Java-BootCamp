@@ -3,22 +3,8 @@ package com.day2;
 import java.util.Scanner;
 
 public class StringPalindromeCheck {
+    
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a String: ");
-        String s = sc.nextLine();
-        StringBuilder sb = new StringBuilder(s);
-        if(s.equalsIgnoreCase(sb.reverse().toString())){
-            System.out.println("Entered String is palindrome");
-        }
-        else{
-            System.out.println("Entered String is not palindrome");
-        }
-
-    }
-}
-
-    /*public static void main(String[] args) {
         // 1. Setup Scanner for input
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
@@ -50,4 +36,21 @@ public class StringPalindromeCheck {
 
         scanner.close();
     }
-}*/
+}
+
+/*Method two 
+ public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a String: ");
+        String s = sc.nextLine();
+        StringBuilder sb = new StringBuilder(s);
+        if(s.equalsIgnoreCase(sb.reverse().toString())){
+            System.out.println("Entered String is palindrome");
+        }
+        else{
+            System.out.println("Entered String is not palindrome");
+        }
+
+    }
+} */
+
