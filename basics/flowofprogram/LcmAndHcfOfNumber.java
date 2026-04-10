@@ -30,7 +30,7 @@ How it Works (Step-by-Step)To find the HCF of two numbers, a and b:
 4.Repeat until the remainder becomes 0.
 The last non-zero remainder (or the divisor that made the remainder zero) is your HCF.
 */
-package com.day1;
+package basics.flowofprogram;
 import java.util.Scanner;
 
 public class LcmAndHcfOfNumber {
