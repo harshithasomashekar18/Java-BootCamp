@@ -1,5 +1,5 @@
 /*This a basic commandline java program */
-package com.day1;
+package basics.flowofprogram;
 
 public class Main {
     public static void main(String[] args) {

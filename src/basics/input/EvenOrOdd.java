@@ -25,7 +25,7 @@ Examples
 Even: -4, 0, 2, 10, 26, 100
 Odd: -3, 1, 5, 11, 27, 99
  */
-package com.day2;
+package basics.input;
 import java.util.Scanner;
 
 public class EvenOrOdd {

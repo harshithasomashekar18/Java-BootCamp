@@ -1,5 +1,5 @@
 //Take two numbers and print the sum of both.
-package com.day1;
+package basics.flowofprogram;
 import java.util.Scanner;
 
 public class Sum {

@@ -6,7 +6,7 @@ USD Amount = INR Amount × Exchange Rate
 Exchange rate at present is  0.01085
 USD(United States Dollar)
  */
-package com.day2;
+package basics.input;
 import java.util.Scanner;
 
 public class CurrencyConverter {

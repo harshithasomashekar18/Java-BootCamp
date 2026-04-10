@@ -1,4 +1,4 @@
-package com.day2;
+package basics.input;
 public class AreaOfSquare {
 
     public static void main(String[] args) {

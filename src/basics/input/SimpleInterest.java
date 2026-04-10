@@ -17,7 +17,7 @@ Monthly Time: If time is in months, divide by 12 (T/12) to convert to years.
 Example: For 10,000 at 5%  for 3 years: (10,000 * 5 * 3)/100 = 1,500 interest.
 Total Repayment: Principal + Interest (10,000 + 1,500)= 11,500. 
  */
-package com.day2;
+package basics.input;
 import java.util.Scanner;
 
 public class SimpleInterest {

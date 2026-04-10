@@ -1,5 +1,5 @@
 //Java output Print statements
-package com.day1;
+package basics.flowofprogram;
 
 public class Demo {
     public static void main(String[] args) {

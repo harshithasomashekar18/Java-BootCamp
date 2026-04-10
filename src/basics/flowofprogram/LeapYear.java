@@ -15,7 +15,7 @@ If the year is divisible by 100, it is not a leap year, unless it is also divisi
 Therefore, 2000 was a leap year, but 1900 was not.
 Days in a Leap Year: 366 days, with February 29th being the added day.
  */
-package com.day1;
+package basics.flowofprogram;
 import java.util.Scanner;
 
 public class LeapYear {
@@ -33,3 +33,4 @@ public class LeapYear {
     }
     
 }
+

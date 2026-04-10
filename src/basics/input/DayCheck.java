@@ -1,4 +1,4 @@
-package com.day2;
+package basics.input;
 import java.util.Scanner;
 public class DayCheck {
     public static void main(String[] args) {

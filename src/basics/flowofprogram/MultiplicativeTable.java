@@ -1,6 +1,6 @@
 //Take a number as input and print the multiplication table for it.
 
-package com.day1;
+package basics.flowofprogram;
 import java.util.Scanner;
 
 public class MultiplicativeTable {
