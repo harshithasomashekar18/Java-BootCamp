@@ -1,4 +1,4 @@
-package basics.input;
+package basics.controlflow;
 import java.util.Scanner;
 
 public class PerimeterOfCircle {

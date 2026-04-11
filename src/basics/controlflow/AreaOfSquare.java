@@ -1,4 +1,4 @@
-package basics.input;
+package basics.controlflow;
 public class AreaOfSquare {
 
     public static void main(String[] args) {
