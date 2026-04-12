@@ -1,4 +1,4 @@
-package basics.controlflow;
+package basics.input;
 import java.util.Scanner;
 
 public class ArmstrogNumber {
