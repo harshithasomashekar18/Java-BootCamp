@@ -1,7 +1,9 @@
 /*
 Total Surface area of Cube java program
 
-Formula: 6 * side * side 
+Formula: 6 * a^2 
+     Where:'a' is the length of one side (or edge) of the cube.
+     
 */
 
 package basics.controlflow;
