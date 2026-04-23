@@ -1,3 +1,7 @@
+/*Calculate the Batting Average program
+Formula: totalRuns / timesOut
+ */
+
 package basics.controlflow;
 
 import java.util.Scanner;
