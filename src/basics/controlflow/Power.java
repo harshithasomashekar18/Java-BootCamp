@@ -1,5 +1,5 @@
 /*
-Java Power program
+Java Power calculator  program
 Approach 1:
 Using Math.pow() (The Standard Way)
 
