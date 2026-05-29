@@ -23,14 +23,21 @@ public class LeapYear {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a year:");
         int year = sc.nextInt();
-        if((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)){
+        if(leapYear(year)){
             System.out.println("It is a leap year");
         }
         else{
-            System.out.println("Not a leap year");
+            System.out.println("Its not a leap year");
         }
-        sc.close(); 
+        sc.close();
     }
+        static boolean leapYear(int year){
+            if((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)){
+            return true;
+         }
+        return false;
+        }
+         
     
 }
 
